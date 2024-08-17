@@ -1,0 +1,8 @@
+{
+  "name": "game-with-google",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Dmitriii-K/Game-with-google.git",
+  "author": "Dmitriii-K <dmitriii.kirilenko@yandex.by>",
+  "license": "MIT"
+}
